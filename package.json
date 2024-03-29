@@ -1,0 +1,19 @@
+{
+  "name": "firstapinodejs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000i\u0000r\u0000s\u0000t\u0000A\u0000p\u0000i\u0000N\u0000o\u0000d\u0000e\u0000J\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.0"
+  }
+}
